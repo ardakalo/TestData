@@ -1,0 +1,57 @@
+[
+        {
+            "sto_kod": "4001",
+            "sto_isim": "İniş Dibi Soda",
+            "sto_detay_takip": "1"
+        },
+        {
+            "sto_kod": "4002",
+            "sto_isim": "Coca-Cola",
+            "sto_detay_takip": "3"
+        },
+        {
+            "sto_kod": "4003",
+            "sto_isim": "Cappy Portakal",
+            "sto_detay_takip": "3"
+        },
+        {
+            "sto_kod": "4004",
+            "sto_isim": "Nescafe",
+            "sto_detay_takip": "1"
+        },
+        {
+            "sto_kod": "4005",
+            "sto_isim": "Tadım Fıstık",
+            "sto_detay_takip": "0"
+        },
+        {
+            "sto_kod": "4006",
+            "sto_isim": "Yumurta",
+            "sto_detay_takip": "1"
+        },
+        {
+            "sto_kod": "4007",
+            "sto_isim": "Sek Süt",
+            "sto_detay_takip": "1"
+        },
+        {
+            "sto_kod": "4008",
+            "sto_isim": "Dido",
+            "sto_detay_takip": "2"
+        },
+        {
+            "sto_kod": "4009",
+            "sto_isim": "PopKek",
+            "sto_detay_takip": "2"
+        },
+        {
+            "sto_kod": "4010",
+            "sto_isim": "Dana Antrikot",
+            "sto_detay_takip": "4"
+        },
+        {
+            "sto_kod": "4001",
+            "sto_isim": "İniş Dibi Soda",
+            "sto_detay_takip": "1"
+        }
+    ]
