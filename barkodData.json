@@ -1,0 +1,46 @@
+[
+        {
+            "bar_kodu": "1001",
+            "bar_stokkodu": "4001"
+        },
+        {
+            "bar_kodu": "1002",
+            "bar_stokkodu": "4002"
+        },
+        {
+            "bar_kodu": "1003",
+            "bar_stokkodu": "4003"
+        },
+        {
+            "bar_kodu": "1004",
+            "bar_stokkodu": "4004"
+        },
+        {
+            "bar_kodu": "1005",
+            "bar_stokkodu": "4005"
+        },
+        {
+            "bar_kodu": "1006",
+            "bar_stokkodu": "4006"
+        },
+        {
+            "bar_kodu": "1007",
+            "bar_stokkodu": "4007"
+        },
+        {
+            "bar_kodu": "1008",
+            "bar_stokkodu": "4008"
+        },
+        {
+            "bar_kodu": "1009",
+            "bar_stokkodu": "4009"
+        },
+        {
+            "bar_kodu": "1010",
+            "bar_stokkodu": "4010"
+        },
+        {
+            "bar_kodu": "1101",
+            "bar_stokkodu": "4001"
+        }
+    ]
